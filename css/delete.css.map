@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/delete.scss"
+    ],
+    "names": [],
+    "file": "delete.css"
+}
